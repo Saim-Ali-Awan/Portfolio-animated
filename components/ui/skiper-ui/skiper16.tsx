@@ -10,7 +10,7 @@ const projects = [
     title: "BITLINKS",
     id: "PROJ_01",
     src: "/bitlinks.png",
-    url: "https://bitlinks.vercel.app",
+    url: "https://bitlinksdev.vercel.app",
     tech: ["Next.js", "Tailwind", "Framer"],
   },
   {
